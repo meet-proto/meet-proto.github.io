@@ -1,0 +1,1 @@
+import{d as o,b as n,e,V as r,t as s,f as _,a as t,x as c}from"./index-CA7ocr_F.js";const d=o({__name:"default",setup(l){return(p,u)=>{const a=s("router-view");return _(),n(r,null,{default:e(()=>[t(c,null,{default:e(()=>[t(a)]),_:1})]),_:1})}}});export{d as default};

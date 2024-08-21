@@ -1,0 +1,1 @@
+import{at as t}from"./index-CA7ocr_F.js";const s=t("user",{state:()=>({uid:""}),actions:{getUid(){return this.uid==""&&(this.uid=new Date().getTime()+"--proto-tester"),this.uid}},persist:{storage:localStorage}}),i={};export{i as b,s as u};

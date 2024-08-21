@@ -1,0 +1,1 @@
+import{at as s}from"./index-CA7ocr_F.js";const a=s("events",{state:()=>({savedEvents:[]}),getters:{events:e=>e.savedEvents},actions:{save(e){this.savedEvents=e}},persist:{storage:localStorage}});export{a as u};
